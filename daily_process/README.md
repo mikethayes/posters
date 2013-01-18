@@ -1,12 +1,12 @@
 Daily Process
 =============
 
-The idea for this poster cam directly from one of the [How
+The idea for this poster came directly from one of the [How
 I Work](http://lifehacker.com/how-i-work/) series of
 interviews on Lifehacker with [Zack
 Frechette](http://lifehacker.com/5976408/im-zach-frechette-founder-of-quarterly-co-and-this-is-how-i-work)
 
-It's based on Zacks dail process as shown in [this
+It's based on Zacks daily process as shown in [this
 image](http://img.gawkerassets.com/post/17/2013/01/zachfwhiteboard.png).
 
 As in other projects, this is an example of abusing OpenOffice Draw to do
@@ -16,9 +16,8 @@ things I don't think it was really intended to do.
 
 Theme
 -----
-Overall, the look I was aiming for was an opticians eye chart. The black font
-in varying sizes with red and green thrown in for testin long/short
-sighted-ness
+Overall, the theme I was aiming for was something like an opticians eye chart.
+I think it works.
 
 Layout
 ------
