@@ -12,6 +12,8 @@ image](http://img.gawkerassets.com/post/17/2013/01/zachfwhiteboard.png).
 As in other projects, this is an example of abusing OpenOffice Draw to do
 things I don't think it was really intended to do. 
 
+![whitboard](http://img.gawkerassets.com/post/17/2013/01/zachfwhiteboard.png "Inspiration") ![snapshot](https://github.com/mikethayes/posters/raw/master/daily_process/2013DailyProcess.png "Snapshot")
+
 Theme
 -----
 Overall, the look I was aiming for was an opticians eye chart. The black font
