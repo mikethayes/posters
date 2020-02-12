@@ -3,7 +3,7 @@ Daily Process
 
 The idea for this poster came directly from one of the [How
 I Work](http://lifehacker.com/how-i-work/) series of
-interviews on Lifehacker with [Zack
+interviews on Lifehacker with [Zach
 Frechette](http://lifehacker.com/5976408/im-zach-frechette-founder-of-quarterly-co-and-this-is-how-i-work)
 
 It's based on Zacks daily process as shown in [this
@@ -27,7 +27,7 @@ everything else is done with plain old text boxes. Other than tweaking the
 spacking of fonts to get different sized words to align everyting else is just
 font face changes for bold and color.
 
-The font used is Consolas, a fixed with font that I use in order to make alignment 
+The font used is Consolas, a fixed width font that I use in order to make alignment 
 and layout easier.
 
 If I were starting again, I think I would go with a more formal grid layout but
@@ -42,4 +42,4 @@ This is more of a template than a final image, and I intend tweaking it a bit
 more to suit my personal process. For the baseline document I wanted to stay
 close to the original image that inpired it.
 
-Speaking which, thanks to Zack for the inspiration.
+Speaking which, thanks to Zach for the inspiration.
